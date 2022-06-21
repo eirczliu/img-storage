@@ -2,4 +2,4 @@
 
 
 As its name.   
-Photo repos, showing some rendering of code. 
+Photo repos, showing some renderings of code. 
